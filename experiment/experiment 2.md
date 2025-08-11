@@ -9,7 +9,8 @@ STEP 1 : DOWNLOAD VIRTUALBOX FILE .
 1 Go to the VirtualBox Website
 
 2 Select Your Operating System
-![alt text](<file 1 .png
+![alt text](<file 1 .png>)
 STEP 2 : INSTALLING VIRTUAL BOX
         1 The beginning
          ![alt text](<file 2.png>)
+        2
