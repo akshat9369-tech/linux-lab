@@ -104,6 +104,6 @@ click finish to fianl your instalation of ubuntu
 ![alt text](<file 16.jpeg>)
 
 
-              congratulation you have sucessfully 
-            installed ubuntu on your virtual machine
+                          congratulation you have sucessfully 
+                      installed ubuntu on your virtual machine
  
