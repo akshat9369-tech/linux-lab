@@ -72,8 +72,9 @@ moves files
 
 ![alt text](k.png)
 
-                THNAK YOIU SIR
+Conclusion 
+           In the ned i would lik e to conclude these are few most commnly used function in termional
 
 
-
+                             THANK YOU SIR
 
