@@ -73,7 +73,7 @@ moves files
 ![alt text](k.png)
 
 Conclusion 
-           In the ned i would lik e to conclude these are few most commnly used function in termional
+           In the end i would like to conclude  that these are few most commnly used function in terminal with examples
 
 
                              THANK YOU SIR
