@@ -14,6 +14,3 @@ pwd
 ``` bash
 /home/akshat-mishra/Documents/GitHub/linux-lab
 ```
-screenshort 
-hi
-ghsighpdso

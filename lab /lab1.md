@@ -26,4 +26,4 @@ Explanation : The ls command list all the files and folders
  ![images](./images/ls.png)
 
  thanks
- hhk
+ 
