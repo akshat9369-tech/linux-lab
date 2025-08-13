@@ -72,6 +72,12 @@ moves files
 
 ![alt text](k.png)
 
+10. echo( input data):
+used to send data to your desired file
+
+![alt text](l.png)
+
+
 Conclusion 
            In the end i would like to conclude  that these are few most commnly used function in terminal with examples
 
