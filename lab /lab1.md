@@ -24,3 +24,6 @@ Explanation : The ls command list all the files and folders
 ### The output of the commands is as below
 
  ![images](./images/ls.png)
+
+ thanks
+ hhk
