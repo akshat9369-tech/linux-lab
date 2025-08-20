@@ -21,6 +21,8 @@ In Linux, users and groups are central concepts for managing access to files and
 
     . Privileges: They are restricted by permissions (e.g., they can’t access or modify files owned by the root user unless granted explicit permission).
 
+    ![images](./image%20expeiment%203/a2.png)
+
    ### 3.System User
 
     .UID: Typically lower than 1000.
