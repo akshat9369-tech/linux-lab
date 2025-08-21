@@ -20,7 +20,7 @@ exmaple from  ``` bash ls -l```
 
 ![images](./image%20for%20experiment%205/f1.png)
 
-🔹 2. chmod – Change File Permissions
+## 🔹 2. chmod – Change File Permissions
 Syntax
 
 ``` bash
@@ -83,7 +83,14 @@ chmod -R 755 /mydir
 
     ``` bash -R → applies changes recursively to all files/subdirectories.
 
-🔹 3. chown – Change File Ownership
+ ![images](./image%20for%20experiment%205/r%20dis.png)
+
+ after use of recrsive changes   
+
+
+ ![images](./image%20for%20experiment%205/photo%20gnu.png)
+
+  3. chown – Change File Ownership
 Syntax
 
 ``` bash
@@ -98,12 +105,17 @@ chown :dev file.txt            # Change only group to 'dev'
 chown -R vibhu:dev /project    # Recursive ownership change
 ```
 
-🔹 4. Putting It All Together
+![images](./image%20for%20experiment%205/chown%20owner%20ak.png)
+
+## 🔹 4. Putting It All Together
 Example Scenario
 ``` bash
 touch project.sh
 ls -l project.sh
 ```
+
+![images](./image%20for%20experiment%205/puting%20it%20all%20togeather.png)
+
 `
 Output:
 ``` bash
@@ -115,3 +127,20 @@ chmod 700 project.sh       # Only owner has rwx
 chmod u+x,g-w project.sh   # Add execute for user, remove write for group
 chown root:admin project.sh # Change owner to root and group to admin
 ```
+
+1.
+
+![images](./image%20for%20experiment%205/put%20in%20all%20%202nd.png)
+
+2.
+![images](./image%20for%20experiment%205/put%20in%20all%203.png)
+
+3.
+![images](./image%20for%20experiment%205/all%20togeater%204.png)
+
+
+## 5. quick refrence table 
+
+![images](./image%20for%20experiment%205/5.png)
+
+key tip: use numberic for quick setting (e.g. , 755,644) and symbolic for fine adjustments( u+x, g-w)
