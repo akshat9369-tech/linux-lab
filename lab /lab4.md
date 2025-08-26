@@ -11,17 +11,17 @@ In Linux, users and groups are central concepts for managing access to files and
    . role: The most powerful user on the system . Has full control ove the systeem , can modify anything , and execute any command.
    .privelage: Can access, modify , and delete any file , even system files.
 
-   ### 2.Normal User
+     2.Normal User
 
-    . Regular users who have access only to their files and certain system files.
+     . Regular users who have access only to their files and certain system files.
 
-    . ID: Assigned a unique ```UID``` starting from ```1000``` (typically, depending on your Linux distribution).
+     . ID: Assigned a unique ```UID``` starting from ```1000``` (typically, depending on your Linux distribution).
+ 
+     . Role: Can execute commands, edit files, and access files in their home directories.
 
-    . Role: Can execute commands, edit files, and access files in their home directories.
+     . Privileges: They are restricted by permissions (e.g., they can’t access or modify files owned by the root user unless granted explicit permission).
 
-    . Privileges: They are restricted by permissions (e.g., they can’t access or modify files owned by the root user unless granted explicit permission).
-
-    ![images](./image%20expeiment%203/a2.png)
+     ![images](./image%20expeiment%203/a2.png)
 
    ### 3.System User
 
