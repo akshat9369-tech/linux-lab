@@ -7,6 +7,7 @@
 ## Choose one installation method:
  option A- Virtual Machine
 
+ 1. selction of username and isoimage
  
 
 
