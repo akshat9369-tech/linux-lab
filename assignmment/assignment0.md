@@ -69,6 +69,6 @@
 
  Q2. What are two advantages of dual booting instead of using a VM?
  Ans.
- 1.  superior performance as in dual boot it has complete acess to  pc's resource
+ 1.  superior performance as in dual boot it has complete access to  pc's resource
  2.  dual booting allows you to use a completely seprate operating system making it secure of virus attack
 
