@@ -8,46 +8,61 @@
  option A- Virtual Machine
 
  1. selction of username and iso image
+
  ![images](./photos%200/1.jpeg)
 
  2. password and hostname
+
  ![images](./photos%200/2.jpeg)
 
  3. memory and processor assign
+
  ![images](./photos%200/3.jpeg)
 
  4. storage allocation
+ 
  ![images](./photos%200/4.jpeg)
 
  5. bootloader menu
+
  ![images](./photos%200/5.jpeg)
 
  6. installation screen
+
  ![images](./photos%200/6.jpeg)
+
  ![images](./photos%200/7.jpeg)
 
  7. first time login screen
+
  ![images](./photos%200/8.jpeg)
 
- 8. steps after first login 
+ 8. steps after first login
+
  ![images](./photos%200/9.jpeg)
+
  ![images](./photos%200/10.jpeg)
  
  9. installation complete
+
  ![images](./photos%200/11.jpeg)
 
 ## running command on ubuntu terminal 
 
  1. lsb_releaser -a(shows ubuntu version)
+
  ![images](./photos%200/12.jpeg)
 
  2. uname -a(kernel info)
+
  ![images](./photos%200/13.jpeg)
 
  3. df -h(disk usage)
+
  ![images](./photos%200/14.jpeg)
 
  4. free -m(memory usage)
+ 
  ![images](./photos%200/15.jpeg)
 
 ## some challanges i face while installation
