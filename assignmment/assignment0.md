@@ -7,7 +7,7 @@
 ## Choose one installation method:
  option A- Virtual Machine
 
- 1. selction of username and iso image
+ 1. selection of username and iso image
  ![images](./photos%200/1.jpeg)
 
  2. password and hostname
