@@ -24,7 +24,6 @@
 
  6. installation screen
  ![images](./photos%200/6.jpeg)
-
  ![images](./photos%200/7.jpeg)
 
  7. first time login screen
@@ -32,7 +31,6 @@
 
  8. steps after first login
  ![images](./photos%200/9.jpeg)
-
  ![images](./photos%200/10.jpeg)
  
  9. installation complete
