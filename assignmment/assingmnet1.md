@@ -218,7 +218,7 @@ Breakdown:
 * `r-x` → Group has read, execute
 * `r--` → Others have read only
 
-![alt text](../images/img21.png)
+![images](./photos1/19.png)
 ---
 ## 🔹 2. `chmod` – Change File Permissions
 
@@ -261,9 +261,9 @@ Meaning:
 * Others: 7 → `r-w-x`
 
 ### **image**
-![alt text](../images/img19.png)
+![images](./photos1/20.png)
 
-![alt text](../images/img20.png)
+![images](./photos1/21.png)
 
 ### (B) Symbolic Method
 
