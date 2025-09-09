@@ -277,7 +277,6 @@ Operators:
 
 Modes can be set in **numeric (octal)** or **symbolic** form.
 
-![alt text](../images/img22.png)
 
 ---
 ### (C) Recursive Changes
@@ -289,11 +288,13 @@ chmod -R 755 /mydir
 * `-R` → applies changes recursively to all files/subdirectories.
 
 
-![alt text](../images/img23.png)
+![images](./photos1/22.png)
 
-!![alt text](../images/img24.png)
+after recursive
 
-![alt text](../images/img25.png)
+![images](./photos1/23.png)
+
+
 ---
 
 ## 🔹 3. `chown` – Change File Ownership
@@ -385,7 +386,7 @@ ls -l testfile.txt
 
 ✅ **Key Tip**: Use **numeric for quick settings** (e.g., 755, 644) and **symbolic for fine adjustments** (`u+x`, `g-w`).
 
-![alt text](../images/img52.png)
+![images](./photos1/27.png)
 
 ---
 
