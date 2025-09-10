@@ -41,7 +41,7 @@
 
 ### 📌 Example Runs
 
-Example1
+Example
 
 ![images](./images3/5.png)
 
