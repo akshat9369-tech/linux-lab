@@ -7,7 +7,7 @@
 ## Choose one installation method:
  option A- Virtual Machine
 
- 1. selction of username and iso image
+ 1. selection of username and iso image
  ![images](./photos%200/1.jpeg)
 
  2. password and hostname
@@ -55,18 +55,18 @@
  ![images](./photos%200/15.jpeg)
 
 ## some challanges i face while installation
-  1. VMB takes a lot time to boot the ios in thje first time and can get stuck twice or thrice time while installation
+  1. VMB takes a lot time to boot the ios in the first time and can get stuck twice or thrice time while installation
 
-  2. we need to change dispalky settingh if using graphic card supporterd laptop
+  2. we need to change display settings in using graphic card supporterd laptop
 
 ## extra question   
  Q1. What are two advantages of installing Ubuntu in VirtualBox?
   Ans. 
- 1. it easy to create as many as vortual machine we want
+ 1. it easy to create as many as virtual machine we want
  2. it  does not force us to do partiton on the ssd
 
  Q2. What are two advantages of dual booting instead of using a VM?
  Ans.
  1.  superior performance as in dual boot it has complete access to  pc's resource
- 2.  dual booting allows you to use a completely seprate operating system making it secure of virus attack
+ 2.  dual booting allows you to use a completely seprate operating system making it secure of virus attack on the other os 
 
