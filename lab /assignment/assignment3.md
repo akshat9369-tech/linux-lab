@@ -43,10 +43,8 @@
 
 Example1
 
-![images](./images3/5.2.png)
-Example2
+![images](./images3/5.png)
 
-![images ](../images/img58.png)
 
 
 ### 📌 Q1=differnce between $1,$@ and $# in bash?
@@ -58,4 +56,3 @@ Example2
 ### 📌 Q2=what does exit 1 mean in the script
     
      ans=script is terminating with an error
-     
