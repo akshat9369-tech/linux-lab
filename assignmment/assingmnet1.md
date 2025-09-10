@@ -20,13 +20,15 @@
 
   ls -l → Detailed list (permissions, size, date)
 
-   ![images](./photos1/2.png)
+  ![images](./photos1/2.png)
 
   ls -a → Shows hidden files (those starting with .)
-    ![images](./photos1/3.png) 
+    
+ ![images](./photos1/3.png) 
   
   ls -la → Combined
-     ![images](./photos1/4.png)
+   
+ ![images](./photos1/4.png)
  
 
 ## `cd` – Change Directory
@@ -148,7 +150,9 @@ find . -name "*.txt"
 ```
 
 🔍 Finds all `.txt` files in current folder and subfolders.
+
 ![images](./photos1/17.png)
+
 ---
 
 ### `grep` – Search Inside Files
@@ -412,6 +416,7 @@ chmod 700 project.sh       # Only owner has rwx
 chmod u+x,g-w project.sh   # Add execute for user, remove write for group
 chown root:admin project.sh # Change owner to root and group to admin
 ```
+[images](./photos1/28.png)
 
 ---
 
