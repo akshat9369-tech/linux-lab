@@ -29,7 +29,7 @@ In this assignment in have taken two  shell scripts :-
 ```
 #!/bin/bash :- shebang
 
-fruits=("apple" "banana" "cherry") :- in this statement we declayt fruit as array 
+fruits=("apple" "banana" "cherry") :- in this statement we declare fruit as array 
 
 echo "first fruit: ${fruits[0]}" :- printing the first fruit
 echo "second fruit : ${fruits[1]}" :- printing the second fruit
