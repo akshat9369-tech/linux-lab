@@ -348,7 +348,18 @@ Displays content in terminal.
    
    key tip: use numberic for quick setting (e.g. , 755,644) and symbolic for fine adjustments( u+x, g-w)
 
- 
+ ### 📌 Q1 what is the difference between chmod and chown?
+    ans=chown-change ownership
+         change the owner and group of a file or directory
+        
+        chmod-change permissions
+         changes the permissions for the owner,group, and others
+        
+### 📌 Q2 how do you check current directory and user?
+
+      ans= by using the pwd command.
+
+      
 
 
  
