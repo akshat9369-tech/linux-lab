@@ -10,7 +10,7 @@
 # ✅1.⁠ ⁠backup.sh Script
 Create a new file named backup.sh inside your project folder:
 
-![images](./image4/1.png)
+![images](./image4/2.png)
 
 # ✅ 2. Make Script Executable
 Run the following command once:
