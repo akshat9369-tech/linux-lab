@@ -48,12 +48,74 @@ The code checks  if the number of command- line  arguments passed to the scripot
 The provided script checks for the existence of a file given as a command-line argument. If the file exists, it displays its contents. If the file does not exist, it prompts the user to create it, and if the user confirms, it creates an empty file.
 ```
 
-## in the code we use command as 
+## the line by line explation of the code is :-
+```
+#!/bin/bash
+→ Shebang line, tells the system to use bash to run this script.
 
-### echo: Displays a line of text to standard output.
+2–3. Comments explaining the script name and usage.
 
-### cat: Prints the contents of a file to standard output. When used with the -- option, it prevents cat from interpreting any following arguments starting with a hyphen (-) as command-line options.
+4–7.
 
-### read: Reads a line of text from standard input and stores it in a variable. The -p option allows a prompt to be displayed to the user.
+if [ $# -ne 1 ]; then
+  echo "Usage: $0 <filename>"
+  exit 1
+fi
 
-### touch: Creates an empty file if it does not exist. If the file already exists, it updates the file's access and modification timestamps.  
+
+$# = number of command-line arguments.
+
+If not equal to 1, print usage and exit.
+
+$0 is the script name itself.
+
+👉 Ensures the user must provide one filename.
+
+file="$1"
+
+$1 is the first argument passed (the filename).
+
+Stores it in variable file.
+
+10–14.
+
+if [ -e "$file" ]; then
+  echo "File exists: $file"
+  echo "------ contents ------"
+  cat -- "$file"
+
+
+-e "$file" checks if the file exists.
+
+If yes → print confirmation and display its contents using cat.
+
+15–21 (else part):
+If the file does not exist:
+
+Inform the user: "File '$file' does not exist."
+
+Ask: "Create it now? (y/N): "
+
+Use a case statement:
+
+If answer starts with y or Y → touch creates an empty file, then prints confirmation.
+
+Otherwise → "Not creating file."
+
+✅ What this script does
+
+Takes a filename as input.
+
+If file exists → shows its contents.
+
+If file does not exist → asks user whether to create it.
+
+👉 Example run:
+
+$ ./check_file.sh notes.txt
+File 'notes.txt' does not exist.
+Create it now? (y/N): y
+Created notes.txt
+You can edit it using nano/vi/etc. 
+
+```
