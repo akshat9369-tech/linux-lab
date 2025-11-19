@@ -1,6 +1,6 @@
 # experiment 1 : check_file.sh
 
-## in the code mentioned belkow we have used a shell scripting to check whether a file exist or not 
+## in the code mentioned below we have used a shell scripting to check whether a file exist or not 
 
 
 ![images](./photos%20of%20%20exp%201/5.png)
